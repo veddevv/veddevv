@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matheo!
 
 - 💻 Linux enthusiast (Arch/EndeavourOS user) and open-source fan.
-- 🔧 Mainly code in **Python**.
+- 🔧 I mainly code in **Python**, but i experiment with other Languages aswell.
 - 🌱 Currently working on **RoPY**.
 
 ## Projects:
@@ -11,4 +11,4 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python
 - **Tools**: VSCode
-- **OS**: Linux (EndeavourOS, Arch)
+- **OS**: Linux, (EndeavourOS, Arch) Windows 11
