@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Matheo!
 
-<!--
-**veddevv/veddevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Linux enthusiast (Arch/EndeavourOS user) and open-source fan.
+- 🔧 Mainly code in **Python**.
+- 🌱 Currently working on **RoPY**.
 
-Here are some ideas to get you started:
+## Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **[RoPY](https://github.com/veddevv/RoPY)**
+
+## 🛠 Tech Stack:
+- **Languages**: Python
+- **Tools**: VSCode
+- **OS**: Linux (EndeavourOS, Arch)
+
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![GitHub followers](https://img.shields.io/github/followers/veddevv?style=social)
+
