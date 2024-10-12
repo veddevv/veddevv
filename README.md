@@ -12,5 +12,3 @@
 - **Languages**: Python
 - **Tools**: VSCode
 - **OS**: Linux (EndeavourOS, Arch)
-
-![Matheo's Activity Graph](https://activity-graph.herokuapp.com/graph?username=veddevv&theme=react-dark)
