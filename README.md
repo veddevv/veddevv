@@ -2,7 +2,7 @@
 
 - 💻 Linux enthusiast (Arch/EndeavourOS user) and open-source fan.
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
-- 🌱 Currently working on **crpy**.
+- 👨‍💻 Currently working on **crpy**.
 
 ## Projects:
 
