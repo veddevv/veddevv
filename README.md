@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheo!
 
-- 💻 Linux enthusiast (Arch/EndeavourOS user) and open-source fan.
+- 💻 ex-linux user (for now) and open-source fan.
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
 - 👨‍💻 Currently working on **crpy** and **vgde**.
 
@@ -13,4 +13,4 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python
 - **Tools**: VSCode
-- **OS**: Linux, (EndeavourOS, Arch) Windows 11
+- **OS**: Windows 11
