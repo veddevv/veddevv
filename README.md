@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheo!
 
-- 💻 Debian 12.7 Linux user and open-source fan.
+- 💻 Debian 12.7 Linux user
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
 - 👨‍💻 Currently working on **crpy** and **vgde**.
 
@@ -12,5 +12,5 @@
 
 ## 🛠 Tech Stack:
 - **Languages**: Python
-- **Tools**: VSCode
+- **Tools**: Visual Studio Code, Visual Studio, Git
 - **OS**: Debian 12.7, Windows 11
