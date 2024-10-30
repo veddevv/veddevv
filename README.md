@@ -2,7 +2,7 @@
 
 - 💻 Debian 12.7 Linux user
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
-- 👨‍💻 Currently working on **crpy** and **vgde**.
+- 👨‍💻 Currently working on **vgde**.
 
 ## Projects:
 
