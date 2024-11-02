@@ -11,5 +11,5 @@
 
 ## 🛠 Tech Stack:
 - **Languages**: Python
-- **Tools**: Visual Studio Code
+- **Tools**: Visual Studio Code, Various JetBrains IDEs
 - **OS**: Windows 10
