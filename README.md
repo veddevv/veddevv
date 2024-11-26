@@ -11,5 +11,5 @@
 - 📝 **[openmanual](https://github.com/veddevv/openmanual)**
 ## 🛠 Tech Stack:
 - **Languages**: Python
-- **Tools**: JetBrains Pycharm
+- **Tools**: JetBrains Pycharm, Webstorm
 - **OS**: Windows 10
