@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheo!
 
-- 💻 Windows 10 User
+- 💻 Arch Linux user, btw
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
 - 👨‍💻 Currently working on **vgde** and **openmanual**.
 
