@@ -12,4 +12,4 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python
 - **Tools**: JetBrains Pycharm, Webstorm
-- **OS**: Windows 10
+- **OS**: Arch Linux (btw)
