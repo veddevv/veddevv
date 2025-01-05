@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheo!
 
-- 💻 Arch Linux user, btw
+- 💻 Tech nerd
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
 - 👨‍💻 Currently working on multiple projects.
 
@@ -12,4 +12,4 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python
 - **Tools**: JetBrains Pycharm, Webstorm
-- **OS**: Arch Linux (btw)
+- **OS**: Ubuntu 24.10
