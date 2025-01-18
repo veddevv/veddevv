@@ -11,4 +11,4 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python
 - **Tools**: JetBrains Pycharm, Webstorm
-- **OS**: Linux Mint
+- **OS**: Linux Mint 22.1
