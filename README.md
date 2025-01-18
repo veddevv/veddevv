@@ -11,6 +11,4 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python
 - **Tools**: JetBrains Pycharm, Webstorm
-- **OS**: Ubuntu 24.10
-
-<a href="https://app.daily.dev/notveddev"><img src="https://api.daily.dev/devcards/v2/ueMvnU4nIRe4HXbxh8uBN.png?r=40y&type=wide" width="652" alt="Matheo's Dev Card"/></a>
+- **OS**: Linux Mint
