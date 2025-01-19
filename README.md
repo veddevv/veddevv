@@ -10,5 +10,5 @@
 - 🎮 **[vgde](https://github.com/veddevv/vgde)**
 ## 🛠 Tech Stack:
 - **Languages**: Python
-- **Tools**: JetBrains Pycharm, Webstorm
-- **OS**: Linux Mint 22.1
+- **Tools**: JetBrains Pycharm
+- **OS**: Arch Linux
