@@ -10,5 +10,5 @@
 - 🎮 **[vgde](https://github.com/veddevv/vgde)**
 ## 🛠 Tech Stack:
 - **Languages**: Python
-- **Tools**: JetBrains Pycharm, VSCode
-- **OS**: Arch Linux
+- **Tools**: JetBrains Pycharm
+- **OS**: Windows 10
