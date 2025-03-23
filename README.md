@@ -11,4 +11,4 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python
 - **Tools**: JetBrains Pycharm
-- **OS**: Windows 10
+- **OS**: Windows 10, Arch Linux
