@@ -9,6 +9,6 @@
 - 🌐 **[RoPY](https://github.com/veddevv/RoPY)**
 - 🎮 **[vgde](https://github.com/veddevv/vgde)**
 ## 🛠 Tech Stack:
-- **Languages**: Python
-- **Tools**: JetBrains Pycharm
-- **OS**: Windows 10, Ubuntu
+- **Languages**: Python, HTML
+- **Tools**: JetBrains Pycharm Professional
+- **OS**: Ubuntu 25.04
