@@ -12,3 +12,7 @@
 - **Languages**: Python, HTML
 - **Tools**: JetBrains Pycharm Professional, Webstorm
 - **OS**: Arch Linux/Windows 10
+
+
+# Contact me!
+IRC: notrtdsx@irc.libera.chat
