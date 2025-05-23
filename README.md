@@ -10,8 +10,8 @@
 - 🎮 **[vgde](https://github.com/veddevv/vgde)**
 ## 🛠 Tech Stack:
 - **Languages**: Python, HTML
-- **Tools**: JetBrains Pycharm Professional, Webstorm
-- **OS**: Arch Linux/Windows 10
+- **Tools**: JetBrains Pycharm, Cursor
+- **OS**: Arch Linux and MacOS
 
 
 # Contact me!
