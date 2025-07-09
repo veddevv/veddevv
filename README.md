@@ -11,7 +11,7 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python, HTML
 - **Tools**: JetBrains Pycharm and Webstorm, VS Code
-- **OS**: Linux Mint and MacOS 11.7.10
+- **OS**: Arch Linux and MacOS 14 (Ventura)
 
 
 # Contact me!
