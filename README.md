@@ -4,6 +4,8 @@
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
 - 👨‍💻 Currently working on multiple projects.
 
+2+ years of experience with Linux 🐧
+
 ## Featured projects:
 
 - 🌐 **[RoPY](https://github.com/veddevv/RoPY)**
@@ -11,7 +13,7 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python, HTML
 - **Tools**: JetBrains Pycharm and Webstorm, VS Code
-- **OS**: Debian 13 "trixie" and MacOS 14 (Ventura)
+- **OS**: Fedora 42 and MacOS 14 (Ventura)
 
 
 # Contact me!
