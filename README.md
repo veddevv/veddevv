@@ -4,7 +4,7 @@
 - 🔧 I mainly code in **Python**, but i experiment with other Languages as well.
 - 👨‍💻 Currently working on multiple projects.
 
-4 years (and onwards!) of experience with Linux 🐧
+3 years (and onwards!) of experience with Linux 🐧
 
 ## Featured projects:
 
