@@ -12,7 +12,7 @@
 - 🎮 **[vgde](https://github.com/veddevv/vgde)**
 ## 🛠 Tech Stack:
 - **Languages**: Python, HTML
-- **Tools**: JetBrains Pycharm and Webstorm, VS Code
+- **Tools**: JetBrains Pycharm and Webstorm
 - **OS**: Fedora 42 and MacOS 14 (Ventura)
 
 
