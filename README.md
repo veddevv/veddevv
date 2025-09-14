@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack:
 - **Languages**: Python, HTML
 - **Tools**: JetBrains Pycharm and Webstorm
-- **OS**: Linux Mint and MacOS 14 (Ventura)
+- **OS**: Fedora Linux and MacOS 14 (Ventura)
 
 
 # Contact me!
