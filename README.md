@@ -16,8 +16,5 @@ I just mess around with Python scripts and stuff
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service
 
 
-## Profile View Counter
-![](https://komarev.com/ghpvc/?username=veddevv)
-
 ## Contact me here
 IRC: notvix1@irc.libera.chat
