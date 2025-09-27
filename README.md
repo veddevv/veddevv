@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022; The first Distro i used was Ubuntu Jammy Jellyfish, now i use Fedora.
+Linux user since 2022; The first Distro i used was Ubuntu Jammy Jellyfish, now i use [CachyOS](https://cachyos.org/)
 I just mess around with Python scripts and stuff
 
 ## What I'm working on right now
