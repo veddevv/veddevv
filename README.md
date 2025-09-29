@@ -8,7 +8,7 @@ I just mess around with Python scripts and stuff.
 - [vgde](https://github.com/veddevv/vgde)
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,javascript,java,html,css,git,github,linux,apple,pycharm,webstorm,vim,&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,javascript,cpp,html,css,git,github,linux,apple,pycharm,webstorm,vim,&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Open-Source apps I use!
 * [**Brave**](https://brave.com/) - [Open-source](https://github.com/brave/brave-browser) Chromium-based browser
