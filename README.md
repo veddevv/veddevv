@@ -11,7 +11,7 @@ I just mess around with Python scripts and stuff.
 [![](https://skillicons.dev/icons?i=python,javascript,html,css,md,git,github,stackoverflow,linux,apple,pycharm,webstorm,vim&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
-[![](https://skillicons.dev/icons?i=c,cpp,rust,java&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,java&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Open-Source apps I use!
 * [**Brave**](https://brave.com/) - [Open-source](https://github.com/brave/brave-browser) Chromium-based browser
