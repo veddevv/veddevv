@@ -8,7 +8,7 @@ I just mess around with Python scripts and stuff.
 - [vgde](https://github.com/veddevv/vgde)
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,javascript,html,css,md,git,github,stackoverflow,linux,pycharm,webstorm,clion,intellij,vim&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,javascript,html,css,md,git,github,stackoverflow,linux,pycharm,webstorm,clion,idea,vim&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=cpp,java&theme=dark&perline=10)](https://skillicons.dev)
@@ -17,7 +17,7 @@ I just mess around with Python scripts and stuff.
 * [**Brave**](https://brave.com/) - [Open-source](https://github.com/brave/brave-browser) Chromium-based browser
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service
-
+<img src="https://github-readme-stats.vercel.app/api?username=veddevv&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="veddevv's GitHub Stats" />
 
 ## Contact me here
 IRC: notvix1@irc.libera.chat
