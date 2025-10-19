@@ -17,6 +17,7 @@ I just mess around with Python scripts and stuff.
 * [**Brave**](https://brave.com/) - [Open-source](https://github.com/brave/brave-browser) Chromium-based browser
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service
+
 and many more.
 
 ## Contact me here
