@@ -8,7 +8,7 @@ I just mess around with Python scripts and stuff.
 - [vgde](https://github.com/veddevv/vgde)
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,cpp,javascript,html,css,git,github,stackoverflow,linux,apple,pycharm,webstorm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,javascript,html,css,git,github,stackoverflow,linux,apple,pycharm,webstorm,clion,vscode,vim&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
