@@ -4,8 +4,8 @@ Linux user since 2022; The first Distro i used was Ubuntu Jammy Jellyfish, now i
 I just mess around with Python scripts and stuff.
 
 ## What I'm working on right now
-- [RoPY](https://github.com/veddevv/RoPY)
-- [vgde](https://github.com/veddevv/vgde)
+- [Calculator++](https://github.com/veddevv/CalculatorPlusPlus) - A simple C++ Calculator
+- [vgde](https://github.com/veddevv/vgde) - Shows info about games available on the RAWG site via their API
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=python,cpp,javascript,html,css,git,github,stackoverflow,linux,apple,pycharm,webstorm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
