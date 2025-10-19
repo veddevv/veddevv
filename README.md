@@ -1,7 +1,7 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
 Linux user since 2022; The first Distro i used was Ubuntu Jammy Jellyfish, now i use [CachyOS](https://cachyos.org/) and MacOS.
-I just mess around with Python scripts and stuff.
+I just mess around with Python scripts and C++ stuff.
 
 ## What I'm working on right now
 - [Calculator++](https://github.com/veddevv/CalculatorPlusPlus) - A simple C++ Calculator
