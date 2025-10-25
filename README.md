@@ -2,6 +2,7 @@
 I have been coding since 2024.
 Linux user since 2022; The first Distro i used was Ubuntu Jammy Jellyfish, now i use [CachyOS](https://cachyos.org/) and MacOS.
 I just mess around with Python scripts and C++ stuff.
+
 Ive also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
 
 ## What I'm working on right now
