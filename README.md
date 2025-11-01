@@ -10,7 +10,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [vgde](https://github.com/veddevv/vgde) - Shows info about games available on the RAWG site via their API
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,cpp,javascript,html,css,github,linux,apple,pycharm,clion,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,javascript,html,css,github,linux,apple,pycharm,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
