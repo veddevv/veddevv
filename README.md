@@ -8,6 +8,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 ## What I'm working on right now
 - [Calculator++](https://github.com/veddevv/CalculatorPlusPlus) - A simple C++ Calculator
 - [vgde](https://github.com/veddevv/vgde) - Shows info about games available on the RAWG site via their API
+- [win11-debloater](https://github.com/veddevv/win11-debloater) - Scripts for Debloating Windows 11.
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=python,cpp,javascript,html,css,github,linux,apple,pycharm,clion,vscode&theme=dark&perline=10)](https://skillicons.dev)
