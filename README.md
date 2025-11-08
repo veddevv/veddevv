@@ -5,6 +5,9 @@ I just mess around with Python scripts and C++ stuff.
 
 I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
 
+## Chess
+Heres my [Chess.com](https://www.chess.com/member/notnord13) and my [Lichess](https://lichess.org/@/notonn172). I suck at chess.
+
 ## What I'm working on right now
 - [Calculator++](https://github.com/veddevv/CalculatorPlusPlus) - A simple C++ Calculator
 - [vgde](https://github.com/veddevv/vgde) - Shows info about games available on the RAWG site via their API
