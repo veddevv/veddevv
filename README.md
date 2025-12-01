@@ -13,7 +13,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [win11-debloater](https://github.com/veddevv/win11-debloater) - Scripts for Debloating Windows 11.
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,cpp,html,css,github,windows,linux,apple,pycharm,clion,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,html,css,github,windows,linux,apple,pycharm,clion,rubymine,Holand,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=go,ruby&theme=dark&perline=10)](https://skillicons.dev)
