@@ -8,11 +8,11 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 
 
 ## What I'm working on right now
-- [RoPY](https://github.com/notrtdsx/RoPY) - Shows info about a user on roblox via their User ID. (for example, my User ID is 2031224455)
+- [RoPY](https://github.com/notrtdsx/RoPY) - Shows info about a user on roblox by their User ID via the Roblox API. (for example, my User ID is 2031224455)
 - [vgde](https://github.com/notrtdsx/vgde) - Shows info about games available on the RAWG site via their API
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,cpp,html,css,github,windows,linux,apple,pycharm,clion,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,html,css,github,windows,linux,apple,pycharm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=go,ruby&theme=dark&perline=10)](https://skillicons.dev)
