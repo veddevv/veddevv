@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022; The first Distro i used was Ubuntu Jammy Jellyfish, now i use [CachyOS](https://cachyos.org/) on my Gaming laptop, Debian on old gaming PC (2018), and MacOS Ventura 12.7.4 on an old mid-2014 macbook pro.
+Linux user since 2022; The first Distro i used was Ubuntu Jammy Jellyfish, now i use [CachyOS](https://cachyos.org/) on my Gaming laptop, Windows 11 on ARM Surface Laptop, and MacOS Ventura 12.7.4 on an old mid-2014 macbook pro.
 
 I just mess around with Python scripts and C++ stuff.
 
