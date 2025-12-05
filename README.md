@@ -8,9 +8,8 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 
 
 ## What I'm working on right now
-- [Calculator++](https://github.com/veddevv/CalculatorPlusPlus) - A simple C++ Calculator
-- [vgde](https://github.com/veddevv/vgde) - Shows info about games available on the RAWG site via their API
-- [win11-debloater](https://github.com/veddevv/win11-debloater) - Scripts for Debloating Windows 11.
+- [RoPY](https://github.com/notrtdsx/RoPY) - Shows info about a user on roblox via their User ID. (for example, my User ID is 2031224455)
+- [vgde](https://github.com/notrtdsx/vgde) - Shows info about games available on the RAWG site via their API
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=python,cpp,html,css,github,windows,linux,apple,pycharm,clion,vscode&theme=dark&perline=10)](https://skillicons.dev)
